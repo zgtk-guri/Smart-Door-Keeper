@@ -3,13 +3,20 @@
 * SOLIDWORKS 2017で設計
 * 3Dプリンタで出力する際に，サポート材が生成されないように分割ししてSTLにしている部品がある
 
+## 分解図（組み立てイメージ）
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+
+## ファイル一覧
+
 <table>
   <tr>
     <th colspan="3">SolidWorks2017で作成した図面</th>
     <th colspan="2">3Dプリンタ用STLファイル</th>
   </tr>
   <tr>
-    <td>AssemDoorAndServo.SLDASM</td>
+    <td>[AssemDoorAndServo.SLDASM](Solidworks/AssemDoorAndServo.SLDASM)</td>
     <td>組立図</td>
     <td>全組立図</td>
     <td></td>
