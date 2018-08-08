@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:SmartDoorKeyper-rescue
+LIBS:SmartDoorKeeper-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,7 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:SmartDoorKeyper-cache
+LIBS:SmartDoorKeeper-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -2010,5 +2010,5 @@ Connection ~ 3700 950
 Text Notes 8150 7650 0    60   ~ 0
 180205
 Text Notes 7350 7500 0    80   ~ 0
-Smart Door Keyper
+Smart Door Keeper
 $EndSCHEMATC

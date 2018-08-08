@@ -1,6 +1,6 @@
-update=2018年07月13日 金曜日 19:26:04
+update=2018年08月08日 水曜日 15:00:52
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -31,7 +31,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=SmartDoorKeyper-rescue
+LibName1=SmartDoorKeeper-rescue
 LibName2=power
 LibName3=device
 LibName4=transistors
