@@ -1,0 +1,3 @@
+[submodule "Smart-Door-Keeper-ESP32"]
+	path = Smart-Door-Keeper-ESP32
+	url = https://github.com/zgtk-guri/Smart-Door-Keeper-ESP32.git
