@@ -1,3 +1,6 @@
 [submodule "Smart-Door-Keeper-ESP32"]
 	path = Smart-Door-Keeper-ESP32
 	url = https://github.com/zgtk-guri/Smart-Door-Keeper-ESP32.git
+[submodule "Smart-Door-Keeper-Android"]
+	path = Smart-Door-Keeper-Android
+	url = https://github.com/zgtk-guri/Smart-Door-Keeper-Android.git

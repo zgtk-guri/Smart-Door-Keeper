@@ -8,4 +8,4 @@
 
 ## 2018年10月号 後編
 * [ESP32のプログラム(Platform IO, Arduino Core使用)](https://github.com/zgtk-guri/Smart-Door-Keeper-ESP32/tree/toragi1810)
-
+* [Androidアプリのプログラム](https://github.com/zgtk-guri/Smart-Door-Keeper-Android/tree/toragi1810)
